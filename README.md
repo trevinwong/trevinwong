@@ -1,3 +1,1 @@
-I'm currently a physics programmer at Gearbox.
-
-I enjoy making games with Love2D.
+I'm interested in real-time physical simulation. I also like making games in Love2D. I'm definitely way better at the second one.
